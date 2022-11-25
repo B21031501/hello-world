@@ -14,3 +14,6 @@ for(int i=0;i<len;i++)
 str[len]='\0';
 return str;
 }
+/**
+Remote edit B21031501马维祎
+**/
